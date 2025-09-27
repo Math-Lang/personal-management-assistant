@@ -1,0 +1,1 @@
+This project is built as a polyglot microservice system in a single monorepo. Each service is implemented in the language/framework best suited for its role, and all services are containerized to ensure portability and consistency.
